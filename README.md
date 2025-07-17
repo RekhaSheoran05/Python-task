@@ -1,21 +1,22 @@
-# 🐍 Python Developer – Task 1 & Task 2  
-Submitted by: Rekha Sheoran  
-Platform: Google Colab  
-Institute: Main Flow Services and Technologies Pvt. Ltd.  
+# 🐍 **PYTHON DEVELOPER – TASK 1, TASK 2 & TASK 3**  
+**Submitted by:** Rekha Sheoran  
+**Platform:** Google Colab & Python (.py, .ipynb)  
+**Institute:** Main Flow Services and Technologies Pvt. Ltd.  
 
+---
 
-📘 Project Overview  
-This repository contains Python solutions for two major assignments:
+## 📘 **PROJECT OVERVIEW**  
+This repository contains solutions to three Python development assignments. Each task includes interactive problems, clean logic, and follows all provided constraints such as avoiding external libraries unless specified.
 
-- Task 1 – Foundational Python problems implemented in a `.py` script  
-- Task 2 – Algorithmic challenges including sorting, recursion, and maze solving, implemented in a Jupyter Notebook
+- **Task 1:** Basic Python scripting problems + 1 project  
+- **Task 2:** Algorithmic challenges + maze-solving project  
+- **Task 3:** Advanced string/matrix logic + AI-based gameplay  
 
-Each task includes interactive code, user input handling, and clean logic. All solutions follow the constraints provided, such as avoiding external libraries for visualization.
+---
 
+## 🧩 **TASK 1 – FOUNDATIONAL CHALLENGES** (`python_task.py`)
 
-
-## 🧩 Task 1 – Problem List (in `python_task.py`)
-
+### 🔢 **Questions**
 1. Sum of Two Numbers  
 2. Odd or Even Checker  
 3. Factorial Calculation  
@@ -24,38 +25,71 @@ Each task includes interactive code, user input handling, and clean logic. All s
 6. Palindrome Check  
 7. Leap Year Checker  
 8. Armstrong Number Checker  
-9. Custom Encryption-Decryption System  
+
+### 📦 **Project 1: Custom Encryption-Decryption System**  
+> Implements a simple encryption/decryption logic using character manipulation.
 
 📄 **File:** `python_task.py`
 
+---
 
-## 🧠 Task 2 – Problem List (in `python_task2.ipynb`)
+## 🧠 **TASK 2 – INTERMEDIATE ALGORITHMS** (`python_task2.ipynb`)
 
-1. Prime Number Checker  
-2. Sum of Digits  
-3. LCM and GCD Calculator  
-4. List Reversal (without built-in functions)  
-5. List Sorting (Bubble Sort)  
-6. Remove Duplicates from List  
-7. String Length (without `len()` function)  
-8. Count Vowels and Consonants  
-9. Maze Generator and Solver (DFS for generation, BFS for solving)
+### 🔢 **Questions**
+9. Prime Number Checker  
+10. Sum of Digits  
+11. LCM and GCD Calculator  
+12. List Reversal (without built-in functions)  
+13. List Sorting (Bubble Sort)  
+14. Remove Duplicates from List  
+15. String Length (without `len()` function)  
+16. Count Vowels and Consonants  
+
+### 📦 **Project 2: Maze Generator and Solver (DFS + BFS)**  
+> Uses depth-first and breadth-first search to generate and solve a maze using text-based visualization.
 
 📄 **Notebook:** `python_task2.ipynb`
 
-## 🛠️ How to Run
+---
 
-1. For Task 1: Run `python_task.py` in any Python environment (e.g., VS Code, terminal, or online IDE).
-2. For Task 2: Open `python_task2.ipynb` in Google Colab or Jupyter Notebook.
-3. Run each cell in order and enter inputs when prompted.
+## 🚀 **TASK 3 – ADVANCED LOGIC & AI** (`python_task3.ipynb`)
 
-## 📌 Notes
+### 🔢 **Questions**
+17. Table of a Number  
+18. Swap Two Numbers (no third variable)  
+19. Check Substring  
+20. Decimal to Binary Converter  
+21. Matrix Addition  
+22. Matrix Multiplication  
+23. Find Second Largest Number  
+24. Check Anagram  
 
-- No external libraries like `matplotlib` or `pygame` are used.
-- Maze is visualized using text characters (`█`, ` `, `.`).
-- All logic is implemented using standard Python and is beginner-friendly.
+### 📦 **Project 3: AI-Based Tic-Tac-Toe (Minimax Algorithm)**  
+> Implements strategic gameplay using recursion and decision trees for optimal AI moves.
 
-## 📂 Files Included
+📄 **Notebook:** `python_task3.ipynb`
 
-- `python_task.py` – Task 1 solutions (script format)  
-- `python_task2.ipynb` – Task 2 solutions (notebook format)
+---
+
+## 🛠️ **HOW TO RUN**
+
+- Run `.py` files in any Python environment (VS Code, terminal, or online IDE).  
+- Open `.ipynb` notebooks in Google Colab or Jupyter Notebook.  
+- Execute each cell in order and follow input prompts to test logic.
+
+---
+
+## 📂 **FILES INCLUDED**
+
+- `python_task.py` – Task 1  
+- `python_task2.ipynb` – Task 2  
+- `python_task3.ipynb` – Task 3  
+- `README.md` – Repository documentation
+
+---
+
+## 📌 **NOTES**
+
+- All projects use standard Python, no external libraries for graphics or game engines.  
+- Maze and Tic-Tac-Toe visualizations use simple character-based outputs (`█`, `O`, `X`, etc.).  
+- Each task is coded for clarity, logic correctness, and user interaction.
