@@ -5,7 +5,7 @@
 
 ---
 
-## 📘 **PROJECT OVERVIEW**  
+## 📘 **PROJECT OVERVIEW**
 This repository contains solutions to three Python development assignments. Each task includes interactive problems, clean logic, and follows all provided constraints such as avoiding external libraries unless specified.
 
 - **Task 1:** Basic Python scripting problems + 1 project  
