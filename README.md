@@ -1,4 +1,4 @@
-# 🐍 **PYTHON DEVELOPER – TASK 1, TASK 2 & TASK 3**  
+# 🐍 **PYTHON DEVELOPER – TASK 1, TASK 2, TASK 3 & TASK 4**  
 **Submitted by:** Rekha Sheoran  
 **Platform:** Google Colab & Python (.py, .ipynb)  
 **Institute:** Main Flow Services and Technologies Pvt. Ltd.  
@@ -11,6 +11,8 @@ This repository contains solutions to three Python development assignments. Each
 - **Task 1:** Basic Python scripting problems + 1 project  
 - **Task 2:** Algorithmic challenges + maze-solving project  
 - **Task 3:** Advanced string/matrix logic + AI-based gameplay  
+- **Task 4:** Applied logic problems + log analysis system
+
 
 ---
 
@@ -71,6 +73,23 @@ This repository contains solutions to three Python development assignments. Each
 
 ---
 
+📊 TASK 4 – APPLIED LOGIC & LOG ANALYSIS (python_task4.ipynb)  
+
+### 🔢 **Questions**
+25. Find Missing Number in a Sequence  
+26. Balanced Parentheses Checker  
+27. Longest Word in a Sentence  
+28. Word Count in a Sentence  
+29. Pythagorean Triplet Checker  
+30. Bubble Sort Implementation  
+31. Binary Search in a Sorted List  
+32. Subarray with Given Sum Finder  
+📦 Project 4: Log Analysis System  
+Analyzes server logs to extract top IPs, status codes, and most accessed URLs using string parsing and dictionary logic.
+
+📄 **Notebook:** `python_task4.ipynb`
+
+
 ## 🛠️ **HOW TO RUN**
 
 - Run `.py` files in any Python environment (VS Code, terminal, or online IDE).  
@@ -83,7 +102,8 @@ This repository contains solutions to three Python development assignments. Each
 
 - `python_task.py` – Task 1  
 - `python_task2.ipynb` – Task 2  
-- `python_task3.ipynb` – Task 3  
+- `python_task3.ipynb` – Task 3
+- `python_task4.ipynb` – Task 4
 - `README.md` – Repository documentation
 
 ---
